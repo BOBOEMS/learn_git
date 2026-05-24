@@ -2,6 +2,7 @@
 
 int main(void)
 {
-    printf("Hello Word !");
+    int a = 10;
+    printf("Hello Word ! %d", a);
     return 0;
 }
