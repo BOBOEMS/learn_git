@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    int a = 10;
+    int a = 100;
     printf("Hello Word ! %d", a);
     return 0;
 }
